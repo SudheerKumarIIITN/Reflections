@@ -18,3 +18,22 @@ docs does?
     auto is good for history so if you forget to commit you have something
 	to fall back on, however saving code is better after a logical step is complete
 		and having a working unit to fall back on.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Multiple file commit is more related to a dev enviroment where files
+	are dependant and related. Google caters for general file types like word docs
+	that stand alone.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    bit odd cause date stamps of the next commit seems prior to the precedding one
+	but basically, run git log to get the id's and count red and green lines to see
+	diffierence git diff latest_file previous_file
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    WOW! so this allows me to easilly revert back to versions no problem, awesome 
+	and i can move backwards and forwards etc. just by using git checkout
