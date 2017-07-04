@@ -37,3 +37,9 @@ could break something?
 
     WOW! so this allows me to easilly revert back to versions no problem, awesome 
 	and i can move backwards and forwards etc. just by using git checkout
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    like always setting up the worspace is a nano degree in itself...
+	Want to use it to checkout Wordpress but dont know about DB changes...
+	
